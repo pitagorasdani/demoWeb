@@ -1,0 +1,28 @@
+	* {margin:0px;}
+	
+	body {background-color:#FBF2DA;font-family:'Source Sans Pro',sans-serif;}
+	h1 {color:white;}
+	a {color:#FBF2DA;}
+	
+	#cabecera{background-color:#9FC131;
+			  margin-bottom: 10px;
+			  padding:30px;}
+			  
+	#menu {background-color:#042940;
+		   margin-bottom:15px;
+		   padding:10px;
+	a{color:#FBF2DA;}
+	
+	#contenidos {background-color:white;
+				 width:90%;
+				 margin:0px auto 0px auto;
+				 padding:40px;
+				 border:1px solid #D46240;
+				 border-radius:10px;}
+				 
+	#piepagina {background-color:#DBF227;
+				color:#FBF2DA;
+				font-size:14px;
+				margin-top:10px;
+				padding: 20px 0px 20px 10px}
+
